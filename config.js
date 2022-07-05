@@ -5,24 +5,23 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+1(450)235-4024'] 
-global.mods = ['+1(450)235-4024'] 
-global.prems = ['+1(450)235-4024'] 
-
+global.owner = ['+6281322577123'] 
+global.mods = ['+6281322577123'] 
+global.prems = ['+6281322577123
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.numberowner = '+1(450)235-4024'
-global.instagram = 'https://instagram.com/kokopangeran_'
-global.github = 'https://github.com/kokopangeran'
-global.dana = '087832147584'
-global.pulsa = '087832147584'
-global.gopay = '087832147584'
+global.nameowner = 'ᵈʳLINTANG BOT×፝֟͜×'
+global.numberowner = '+6281322577123'
+global.instagram = 'https://instagram.com/joceylintangg'
+global.github = 'https://tiktok.com/@joceylintangg'
+global.dana = '081322577123'
+global.pulsa = '081322577123'
+global.gopay = '081322577123'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
-global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/kokopangeran_'
+global.namebot = 'ᵈʳLINTANG BOT×፝֟͜×'
+global.gc = 'https://tiktok.com/@joceylintangg'
+global.web = 'https://instagram.com/joceylintangg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://tiktok.com/@joceylintangg'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -32,10 +31,10 @@ global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm = '© ᵈʳLINTANG BOT×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.wm3 = 'ᯤ ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜᵈʳLINTANG BOT×፝֟͜×'
+global.wm3 = 'ᯤ ᵈʳLINTANG BOT×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -45,8 +44,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '©ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ-MD×፝֟͜×'
-global.author = '@ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.packname = '©LINTANG×፝֟͜×'
+global.author = '@ᵈʳLINTANG BOT×፝֟͜×'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
