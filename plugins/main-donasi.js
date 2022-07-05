@@ -27,15 +27,15 @@ wa.me/${numberowner} (Owner)
            hydratedFooterText: '📮 Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'GroupBot',
-               url: 'https://chat.whatsapp.com/BelumBuatGroupBot'
+               displayText: 'TIKTOK',
+               url: 'https://tiktok.com/@joceylintangg'
              }
 
            },
                 {
                urlButton: {
                displayText: 'Myweb',
-               url: 'https://istagram.com/kokopangeran_'
+               url: 'https://instagram.com/joceylintangg'
              }
 
            },
