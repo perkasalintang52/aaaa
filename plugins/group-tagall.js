@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, participants }) => {
 		      	for (let mem of participants) {
 		            teks += ` 👤 @${mem.id.split('@')[0]}\n`
 				}
-                teks += `\n↻ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×↻`
+                teks += `\n↻ᵈʳLINTANG BOT×፝֟͜×↻`
                 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
 handler.help = ['tagall <pesan>']
